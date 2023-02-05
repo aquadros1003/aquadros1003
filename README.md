@@ -33,7 +33,7 @@ aquad = {
     },
     architecture: ["Progressive web applications", "Single page applications"],
     operatingSystems: ["Windows", "Linux"],
-    Tools: ["Visual Studio Code", "PyCharm", "Android Studio", "Canva"]
+    tools: ["Visual Studio Code", "PyCharm", "Android Studio"]
     currentFocus: "No Focus point at this time",
 };
 ```
