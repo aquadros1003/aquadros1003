@@ -31,7 +31,7 @@ aquad = {
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["open-cv", "numpy", "matplotlib"]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
+    targets: ["Image processing", "Single page applications", "Web applications"],
     operatingSystems: ["Windows", "Linux"],
     tools: ["Visual Studio Code", "PyCharm", "Android Studio"]
     currentFocus: "No Focus point at this time",
