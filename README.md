@@ -20,21 +20,21 @@ aquad = {
     askMeAbout: ["web dev", "tech", "app dev", "video games"],
     technologies: {
         backEnd: {
-            python: ["Django", "Flask"],
+            python: [Pythhon: {"Django", "Flask"}, "PHP", "Java"],
         },
         frontEnd: {
-            "HTML", "CSS", "Bootstrap"
+            "HTML", "CSS", "Bootstrap", "React"
             },
         mobileApp: {
             native: ["Android Development"]
         },
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["mongo", "MySql", "sqlite", "PostgreSQL"],
         misc: ["open-cv", "numpy", "matplotlib"]
     },
-    targets: ["Image processing", "Single page applications", "Web applications"],
+    targets: ["Image processing", "Single page applications", "Web applications", "Static pages"],
     operatingSystems: ["Windows", "Linux"],
-    tools: ["Visual Studio Code", "PyCharm", "Android Studio"],
-    currentFocus: "No Focus point at this time",
+    tools: ["Visual Studio Code", "PyCharm", "Android Studio", "IntelliJ IDEA"],
+    currentFocus: "Application to upload images like Imgur",
 };
 ```
 
