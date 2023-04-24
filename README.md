@@ -20,7 +20,7 @@ aquad = {
     askMeAbout: ["web dev", "tech", "app dev", "video games"],
     technologies: {
         backEnd: {
-            python: [Pythhon: {"Django", "Flask"}, "PHP", "Java"],
+            python: ["Python": {"Django", "Flask"}, "PHP", "Java"],
         },
         frontEnd: {
             "HTML", "CSS", "Bootstrap", "React"
