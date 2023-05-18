@@ -23,7 +23,7 @@ aquad = {
             python: ["Python": {"Django", "Flask"}, "PHP", "Java"],
         },
         frontEnd: {
-            "HTML", "CSS", "Bootstrap", "React"
+            "React", "HTML", "CSS", "Bootstrap" 
             },
         mobileApp: {
             native: ["Android Development"]
