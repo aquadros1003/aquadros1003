@@ -16,7 +16,7 @@
 ```javascript
 aquad = {
     pronouns: "He" | "Him",
-    code: [ "Python", "Java", "PHP"],
+    code: [ "Python", "JavaScript", "Java", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "video games"],
     technologies: {
         backEnd: {
