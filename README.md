@@ -2,7 +2,7 @@
 ![Header](./header.gif)
 
 
-## Hi there ✨ I'm (aquad) Łukasz!
+## Hi there ✨ I'm Łukasz!
 
 ♦️ Student of Computer Science at <a href="https://uwm.edu.pl">UWM
 </a><img src="https://media.giphy.com/media/WnNCTaX3x7khhAkZXn/giphy.gif" width="30">
