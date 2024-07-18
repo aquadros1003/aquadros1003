@@ -4,8 +4,11 @@
 
 ## Hi there ✨ I'm Łukasz!
 
-♦️ Student of Computer Science at <a href="https://uwm.edu.pl">UWM
+♦️ Student of Computer Science at <a href="https://www.pw.edu.pl/">Warsaw University of Technology
 </a><img src="https://media.giphy.com/media/WnNCTaX3x7khhAkZXn/giphy.gif" width="30">
+<br>
+♦️ Python Developer at Emplocity
+</a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanc3eHRnZDVpdTU1N3VzOHhsYXhuNWNndG9zMGtpdDUxY25veHRtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="25"> 
 <br>
 ♦️ Barista at Mobile Caffe
 </a><img src="https://media.giphy.com/media/FNLSfaAeD4d4KQAVFy/giphy.gif" width="25"> 
