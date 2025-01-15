@@ -37,7 +37,7 @@ aquad = {
     targets: ["Image processing", "Single page applications", "Web applications", "Static pages"],
     operatingSystems: ["Windows", "Linux"],
     tools: ["Visual Studio Code", "PyCharm", "Android Studio", "IntelliJ IDEA"],
-    currentFocus: "Application to upload images like Imgur",
+    currentFocus: "Focusing on personal growth, learning new technologies, and continuously improving my development skills.",
 };
 ```
 
